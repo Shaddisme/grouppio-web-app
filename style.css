@@ -417,3 +417,25 @@ form button:hover {
     background-color: var(--green-blue);
 }
 
+.footer-section{
+    background-color: var(--green-color);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 118px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
+
+.copyright p {
+    font-family: Mulish;
+    font-weight: 400;
+    color: var(--background-light);
+    font-size: 14px;
+    text-align: center;
+}
+
+.accounts ul li {
+
+}
